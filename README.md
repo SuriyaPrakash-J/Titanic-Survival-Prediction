@@ -15,9 +15,7 @@ Using Python and the popular `scikit-learn` library, this notebook walks through
 - Model Evaluation
 - Making Predictions
 
-## 🧠 Algorithms Used
 
-- Logistic Regression
 
 ## 🛠️ Technologies
 
