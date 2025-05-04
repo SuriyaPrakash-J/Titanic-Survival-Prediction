@@ -50,8 +50,8 @@ The dataset is the classic Titanic dataset from [Kaggle Titanic - Machine Learni
 
 **Suriya Prakash J**  
 3rd-year B.Tech (AI & DS), Veltech University  
-Connect on [LinkedIn](https://www.linkedin.com)
 
----
+
+
 
 > This project was done for learning purposes and demonstrates foundational machine learning skills.
