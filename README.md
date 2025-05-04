@@ -49,7 +49,7 @@ The dataset is the classic Titanic dataset from [Kaggle Titanic - Machine Learni
 ## ✍️ Author
 
 **Suriya Prakash J**  
-3rd-year B.Tech (AI & DS), Veltech University  
+  
 
 
 
