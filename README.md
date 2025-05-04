@@ -46,9 +46,6 @@ The dataset is the classic Titanic dataset from [Kaggle Titanic - Machine Learni
 - Use hyperparameter tuning (e.g., GridSearchCV) for better performance.
 - Add visualization dashboards.
 
-## ✍️ Author
-
-**Suriya Prakash J**  
   
 
 
